@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/univer-minder/static/css/main.cce33698.css",
+    "main.js": "/univer-minder/static/js/main.1d89e613.js",
+    "index.html": "/univer-minder/index.html",
+    "main.cce33698.css.map": "/univer-minder/static/css/main.cce33698.css.map",
+    "main.1d89e613.js.map": "/univer-minder/static/js/main.1d89e613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce33698.css",
+    "static/js/main.1d89e613.js"
+  ]
+}
